@@ -33,6 +33,13 @@ class SteckABNew
 public:
     int X;
 };
+
+class Exeption
+{
+  char Msg [100];
+
+
+}
 int main(int argc, char *argv[])
 {
     //QCoreApplication a(argc, argv);
